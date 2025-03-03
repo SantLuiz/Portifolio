@@ -135,8 +135,14 @@ body{
         padding: 10%;
     }
 
+    .fotinho_rosto{
+        display: none;
+    }
+
     .cabecalho__menu{
         justify-content: center;
+        flex-direction: column;
+        gap: 10px;
     }
 
     .apresentacao{
